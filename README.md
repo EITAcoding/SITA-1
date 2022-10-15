@@ -1,5 +1,5 @@
 # SITA
-## Codebase of the paper " Multimodal Summarization via Coarse-to-fine Image-Text Alignment ".
+## Codebase of the paper " Exploiting Pseudo Image Captions for Multimodal Summarization ".
 
 **soft_ic_src** is the code of image text alignment model.
 
